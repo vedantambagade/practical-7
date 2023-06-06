@@ -1,0 +1,13 @@
+body{
+
+    text-align: center;
+    background-image: radial-gradient(rgb(0, 0, 0),rgb(5, 255, 193));
+
+}
+div{
+    font-size: x-large;
+      margin: 150px;margin-left: 30%;
+      border: 5px solid rgb(5, 255, 193);width: 450px; height: 350px;
+    background-color: rgb(255, 255, 255);  
+    width:30%;
+}
